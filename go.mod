@@ -1,11 +1,8 @@
 module github.com/datolabs-io/terraform-provider-backstage
 
 go 1.23
-
-toolchain go1.23.1
-
 require (
-	github.com/datolabs-io/go-backstage/v3 v3.0.0
+	github.com/datolabs-io/go-backstage/v3 v3.1.0
 	github.com/h2non/gock v1.2.0
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/go-retryablehttp v0.7.7
