@@ -20,7 +20,7 @@ func TestAccDataSourceApi(t *testing.T) {
 					resource.TestCheckResourceAttr("data.backstage_api.test", "metadata.description",
 						"The Smartylighting Streetlights API allows you to remotely manage the city lights."),
 					resource.TestCheckResourceAttr("data.backstage_api.test", "metadata.tags.0", "mqtt"),
-					resource.TestCheckResourceAttr("data.backstage_api.test", "relations.0.target.name", "petstore"),
+					resource.TestCheckResourceAttr("data.backstage_api.test", "relations.0.target_ref", "component:default/petstore"),
 					resource.TestCheckResourceAttr("data.backstage_api.test", "spec.lifecycle", "production"),
 				),
 			},
