@@ -1,6 +1,6 @@
 module github.com/datolabs-io/terraform-provider-backstage
 
-go 1.24.0
+go 1.24.4
 
 require (
 	github.com/datolabs-io/go-backstage/v3 v3.1.0
