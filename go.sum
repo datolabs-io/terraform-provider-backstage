@@ -34,6 +34,8 @@ github.com/cyphar/filepath-securejoin v0.4.1 h1:JyxxyPEaktOD+GAnqIqTf9A8tHyAG22r
 github.com/cyphar/filepath-securejoin v0.4.1/go.mod h1:Sdj7gXlvMcPZsbhwhQ33GguGLDGQL7h7bg04C/+u9jI=
 github.com/datolabs-io/go-backstage/v3 v3.1.0 h1:gkcYDsss1DAEpN3p/nIQCY9dpMmDsG3YgRJTZZje5j4=
 github.com/datolabs-io/go-backstage/v3 v3.1.0/go.mod h1:8Xt7Q+A8dUQvgidXII+Wj6UmRmbuj/YPiAzUbzeRcvY=
+github.com/datolabs-io/go-backstage/v3 v3.2.0 h1:t451wJ44SBaXggkErMM8qvLjEQTvx46oFIeKykldlaU=
+github.com/datolabs-io/go-backstage/v3 v3.2.0/go.mod h1:8ttnYlIi7EA7hSso71PceQyC6N8WS/vL+SrTSXL68R4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
