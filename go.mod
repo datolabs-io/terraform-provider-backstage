@@ -6,7 +6,7 @@ require (
 	github.com/datolabs-io/go-backstage/v3 v3.1.0
 	github.com/h2non/gock v1.2.0
 	github.com/hashicorp/go-cty v1.5.0
-	github.com/hashicorp/go-retryablehttp v0.7.7
+	github.com/hashicorp/go-retryablehttp v0.7.8
 	github.com/hashicorp/terraform-plugin-docs v0.21.0
 	github.com/hashicorp/terraform-plugin-framework v1.15.1
 	github.com/hashicorp/terraform-plugin-framework-jsontypes v0.2.0
